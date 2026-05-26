@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcalidate",
+        "uuid": 6000930,
+        "checksum": "oaya1f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
